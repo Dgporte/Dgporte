@@ -1,14 +1,47 @@
-<div style="text-align: center;" align="center">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dgporte&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFFFFF&text_color=FFF&border_radius=3&border_color=CCCCCC&icon_color=FFFFFF&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/Dgporte/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dgporte&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,css,portugol&bg_color=000&text_color=CCCCCC&border_radius=3&border_color=CCCCCC&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+a+pleasure+to+meet+you%2C+enjoy!" alt="Typing SVG" /></a>
 </div>
 
-<picture>
+<div align="center">
+    <a href="https://github.com/Dgporte">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Dgporte&show_icons=true&theme=transparent"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgporte&hide=html,css,portugol&layout=compact&show_icons=true&theme=transparent&langs_count=16"/>
+</div>
+
+#
+
+<img align="right" alt="Coder GIF" height=210 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+<h3 align="left">My Stack!</h3>
+
+<div align="left" style="diplay: inline_block;">
+    <img align="center" alt="Gb-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+    <img align="center" alt="Gb-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Gb-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Gb-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gb-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Gb-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    <img align="center" alt="Gb-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img align="center" alt="Gb-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="Gb-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
+</div>
+
+<div align="left" >
+    <h3 align="left">Talk to me!</h3>
+    <a href="www.linkedin.com/in/diogoportelladantas" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    
+</div>    
+
+<br>
+
+
+#
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dgporte/Dgporte/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dgporte/Dgporte/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dgporte/Dgporte/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dgporte/Dgporte/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dgporte/Dgporte/output/github-contribution-grid-snake.svg">
 </picture>
